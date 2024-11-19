@@ -10,8 +10,6 @@
 ## PROGRAM
 **CLIENT**
 ```
-Developed by : RISHI CHANDRAN R
-Reg no : 212223233005
 import socket 
 s=socket.socket() 
 s.bind(('localhost',8000)) 
